@@ -1,6 +1,9 @@
 ### 权限中心SDK
 
 #### Usage
+```php
+composer require overlu/permission-sdk
+```
 
 ##### 验证权限
 
